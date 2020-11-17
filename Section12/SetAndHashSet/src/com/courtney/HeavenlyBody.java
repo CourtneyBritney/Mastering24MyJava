@@ -3,9 +3,6 @@ package com.courtney;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Created by dev on 12/01/2016.
- */
 public final class HeavenlyBody {
     private final String name;
     private final double orbitalPeriod;
