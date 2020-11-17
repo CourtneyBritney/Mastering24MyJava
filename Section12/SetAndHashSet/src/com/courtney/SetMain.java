@@ -4,6 +4,9 @@ import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * Created by dev on 3/02/2016.
+ */
 public class SetMain {
     public static void main(String[] args) {
         Set<Integer> squares = new HashSet<>();
