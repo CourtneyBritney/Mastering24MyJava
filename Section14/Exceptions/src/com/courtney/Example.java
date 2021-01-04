@@ -5,6 +5,7 @@ import java.util.NoSuchElementException;
 import java.util.Scanner;
 
 public class Example {
+    //Exceptions
 
     public static void main(String[] args) {
         int result = divide();
